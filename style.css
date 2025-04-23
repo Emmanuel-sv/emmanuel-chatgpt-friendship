@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #111;
+  color: #fff;
+}
+header, footer {
+  background: #880000;
+  text-align: center;
+  padding: 1.2rem;
+}
+nav {
+  background: #222;
+  text-align: center;
+  padding: 0.8rem;
+}
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 1rem;
+}
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+section {
+  margin-bottom: 3rem;
+}
+img {
+  max-width: 100%;
+  border-radius: 1rem;
+  box-shadow: 0 0 15px rgba(255,255,255,0.2);
+}
+audio {
+  width: 100%;
+  margin-top: 1rem;
+}
+blockquote {
+  margin-top: 1rem;
+  font-style: italic;
+  color: #ffcc00;
+}
